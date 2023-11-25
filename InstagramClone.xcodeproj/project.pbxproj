@@ -10,6 +10,7 @@
 		4C6560A32B11EFC100715FB9 /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6560A22B11EFC100715FB9 /* FeedView.swift */; };
 		4C6560A52B11EFD200715FB9 /* FeedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6560A42B11EFD200715FB9 /* FeedCell.swift */; };
 		4C6560A72B12003900715FB9 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6560A62B12003900715FB9 /* SearchView.swift */; };
+		4C6560A92B12056800715FB9 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6560A82B12056800715FB9 /* LoginView.swift */; };
 		4C91D8132B0F8A9700FCE63E /* InstagramCloneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C91D8122B0F8A9700FCE63E /* InstagramCloneApp.swift */; };
 		4C91D8152B0F8A9700FCE63E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C91D8142B0F8A9700FCE63E /* ContentView.swift */; };
 		4C91D8172B0F8A9900FCE63E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C91D8162B0F8A9900FCE63E /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 		4C6560A22B11EFC100715FB9 /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
 		4C6560A42B11EFD200715FB9 /* FeedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCell.swift; sourceTree = "<group>"; };
 		4C6560A62B12003900715FB9 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		4C6560A82B12056800715FB9 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		4C91D80F2B0F8A9700FCE63E /* InstagramClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstagramClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C91D8122B0F8A9700FCE63E /* InstagramCloneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramCloneApp.swift; sourceTree = "<group>"; };
 		4C91D8142B0F8A9700FCE63E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 		4C91D8252B0F8BE100FCE63E /* Authentication */ = {
 			isa = PBXGroup;
 			children = (
+				4C6560A82B12056800715FB9 /* LoginView.swift */,
 			);
 			path = Authentication;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				4C6560A52B11EFD200715FB9 /* FeedCell.swift in Sources */,
 				4C91D82F2B0F8FFE00FCE63E /* ProfileView.swift in Sources */,
 				4C91D8152B0F8A9700FCE63E /* ContentView.swift in Sources */,
+				4C6560A92B12056800715FB9 /* LoginView.swift in Sources */,
 				4C91D8132B0F8A9700FCE63E /* InstagramCloneApp.swift in Sources */,
 				4C6560A72B12003900715FB9 /* SearchView.swift in Sources */,
 				4C91D8322B0F9A5100FCE63E /* UserStatView.swift in Sources */,
